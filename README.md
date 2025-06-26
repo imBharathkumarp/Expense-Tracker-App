@@ -52,3 +52,6 @@ cd ../client
 npm install
 npm start
 ```
+---
+
+# Expense Tracking Sysytem of Daily Usage✌️
